@@ -3,9 +3,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image:url(image\ one.jfif);
+    background-image: url('image/one.jfif');
 }
-
 .calculator {
     background-color: #64ce0e;
     padding: 20px;
